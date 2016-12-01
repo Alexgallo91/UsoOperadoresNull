@@ -1,0 +1,5 @@
+c:\users\fsociety91\documents\visual studio 2012\Projects\CoalescingOperatorNull\CoalescingOperatorNull\bin\Debug\CoalescingOperatorNull.exe.config
+c:\users\fsociety91\documents\visual studio 2012\Projects\CoalescingOperatorNull\CoalescingOperatorNull\bin\Debug\CoalescingOperatorNull.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\CoalescingOperatorNull\CoalescingOperatorNull\bin\Debug\CoalescingOperatorNull.pdb
+c:\users\fsociety91\documents\visual studio 2012\Projects\CoalescingOperatorNull\CoalescingOperatorNull\obj\Debug\CoalescingOperatorNull.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\CoalescingOperatorNull\CoalescingOperatorNull\obj\Debug\CoalescingOperatorNull.pdb
